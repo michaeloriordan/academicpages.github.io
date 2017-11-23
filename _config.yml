@@ -35,7 +35,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "_data/comments/{options.slug}"
+  
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -80,7 +80,8 @@ analytics:
 author:
   name             : "Michael O' Riordan"
   avatar           : "profile.png"
-  bio              : "PhD student"
+  bio              : "PhD student in University College Cork, studying 
+                      radiation from accreting black holes."
   location         : "University College Cork, Ireland"
   employer         :
   email            : "michael_oriordan _AT_ umail.ucc.ie"
