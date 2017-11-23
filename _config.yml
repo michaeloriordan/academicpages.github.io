@@ -83,8 +83,8 @@ author:
   bio              : "PhD student"
   location         : "University College Cork, Ireland"
   employer         :
+  email            : "michael_oriordan _AT_ umail.ucc.ie"
   googlescholar    : "https://scholar.google.com/citations?user=rP9NWDQAAAAJ"
-  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "michaeloriordan"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0002-0540-208X"
+  github           : "michaeloriordan"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
