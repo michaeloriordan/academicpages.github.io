@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-This page is under constriction
+You can download a copy of my CV [here](http://michaeloriordan.github.io/files/mor_cv.pdf).
 
 <!---
 {% include base_path %}
@@ -53,12 +53,13 @@ Talks
   
 Teaching
 ======
+<!---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 Service and leadership
 ======
+--->  
 <!---
 * Currently signed in to 43 different slack teams
 --->
