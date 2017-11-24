@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download a copy of my CV [here](http://michaeloriordan.github.io/files/mor_cv.pdf).
+You can download a copy of my CV [<u>here</u>](http://michaeloriordan.github.io/files/mor_cv.pdf).
 
 <!---
 {% include base_path %}
