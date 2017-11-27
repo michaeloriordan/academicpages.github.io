@@ -5,7 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-This page is under construction
+Refereed Journal Publications
+=============================
+
+- **O’ Riordan, M.**, Pe’er, A., & McKinney, J. C., “*Blazar Variability From Turbulence in Jets
+Launched by Magnetically Arrested Accretion Flows*”, 2017, [ApJ, 843, 81](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1704.05882)
+
+Submitted For Publication
+=========================
+
+Conference Proceedings
+======================
 
 <!---
 {% if author.googlescholar %}
