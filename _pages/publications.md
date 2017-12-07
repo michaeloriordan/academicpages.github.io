@@ -7,6 +7,9 @@ author_profile: true
 
 ## Refereed Journal Publications
 
+- **O’ Riordan, M.**, Pe’er, A., & McKinney, J. C., “*Observational Signatures of Mass-Loading in Jets
+Launched by Rotating Black Holes*”, 2017, accepted for publication in ApJ, [<u>arXiv:1711.04691</u>](https://arxiv.org/abs/1711.04691)
+
 - **O’ Riordan, M.**, Pe’er, A., & McKinney, J. C., 
 “*Blazar Variability From Turbulence in Jets Launched by Magnetically Arrested Accretion Flows*”, 
 2017, [<u>ApJ, 843, 81</u>](http://iopscience.iop.org/article/10.3847/1538-4357/aa7339)
@@ -17,10 +20,12 @@ Accreting Black Holes*”, 2016, [<u>ApJ, 831, 62</u>](http://iopscience.iop.org
 - **O’ Riordan, M.**, Pe’er, A., & McKinney, J. C., “*Jet Signatures in the Spectra of Accreting Black
 Holes*”, 2016, [<u>ApJ, 819, 95</u>](http://iopscience.iop.org/article/10.3847/0004-637X/819/2/95)
 
+<!---
 ## Submitted For Publication
 
 - **O’ Riordan, M.**, Pe’er, A., & McKinney, J. C., “*Observational Signatures of Mass-Loading in Jets
 Launched by Rotating Black Holes*”, 2017, submitted to ApJ, [<u>arXiv:1711.04691</u>](https://arxiv.org/abs/1711.04691)
+--->
 
 ## Conference Proceedings
 
