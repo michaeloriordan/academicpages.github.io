@@ -305,5 +305,5 @@ compress_html:
   ignore:
     envs: development
 
-#plugins:
-#    - jekyll-seo-tag
+plugins:
+    - jekyll-seo-tag
