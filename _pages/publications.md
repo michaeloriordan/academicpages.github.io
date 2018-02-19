@@ -18,15 +18,15 @@ Launched by Rotating Black Holes*”,
 - **O’ Riordan, M.**, Pe’er, A., & McKinney, J. C., 
 “*Blazar Variability From Turbulence in Jets Launched by Magnetically Arrested Accretion Flows*”, 
 2017, [<u>ApJ, 843, 81</u>](http://iopscience.iop.org/article/10.3847/1538-4357/aa7339)
- (arXiv:[<u>1704.05882</u>](https://arxiv.org/abs/1711.04691))
+ (arXiv:[<u>1704.05882</u>](https://arxiv.org/abs/1704.05882))
 
 - **O’ Riordan, M.**, Pe’er, A., & McKinney, J. C., “*Effects of Spin on High-Energy Radiation from
 Accreting Black Holes*”, 2016, [<u>ApJ, 831, 62</u>](http://iopscience.iop.org/article/10.3847/0004-637X/831/1/62)
- (arXiv:[<u>1607.01060</u>](https://arxiv.org/abs/1711.04691))
+ (arXiv:[<u>1607.01060</u>](https://arxiv.org/abs/1607.01060))
 
 - **O’ Riordan, M.**, Pe’er, A., & McKinney, J. C., “*Jet Signatures in the Spectra of Accreting Black
 Holes*”, 2016, [<u>ApJ, 819, 95</u>](http://iopscience.iop.org/article/10.3847/0004-637X/819/2/95)
- (arXiv:[<u>1510.08860</u>](https://arxiv.org/abs/1711.04691))
+ (arXiv:[<u>1510.08860</u>](https://arxiv.org/abs/1510.08860))
 
 <!---
 ## Submitted For Publication
